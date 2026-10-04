@@ -11,7 +11,6 @@ struct pelajaran {
 };
 
 pelajaran create_pelajaran(string namapel, string kodepel);
-
 void tampil_pelajaran(pelajaran pel);
 
 #endif
